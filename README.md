@@ -15,7 +15,7 @@ ENG -
 - 💬 Ask me about ... C Language
 - 📫 How to reach me: ... alyson.vitalino@gmail.com
 - 😄 Pronouns: ... He/His
-- ⚡ Fun fact: ... I'm waiting Klein's awakening.
+- ⚡ Fun fact: ... I'm waiting Klein to wake up.
 
 PT-BR -
 
