@@ -14,6 +14,7 @@ ENG -
 - 🤔 I’m looking for help with ... Learning SGDB
 - 💬 Ask me about ... C Language
 - 📫 How to reach me: ... alyson.vitalino@gmail.com
+- ✉️ You can see my curriculum vitae at: ... <a href="https://github.com/alysonvitalino/alysonvitalino/blob/main/Curriculo%20Alyson%20Hian%20Clausen%20Vitalino.pdf" class="nav-link">**Currículo**</a>
 - 😄 Pronouns: ... He/His
 - ⚡ Fun fact: ... I'm waiting Klein to wake up.
 
@@ -25,8 +26,9 @@ PT-BR -
 - 🤔 Estou procurando por ajuda com ... SGBD
 - 💬 Me pergunte sobre ... Linguagem C
 - 📫 Como se comunicar comigo: ... alyson.vitalino@gmail.com
+- ✉️ Você pode ver meu currículo em: ... <a href="https://github.com/alysonvitalino/alysonvitalino/blob/main/Curriculo%20Alyson%20Hian%20Clausen%20Vitalino.pdf" class="nav-link">**Currículo**</a>
 - 😄 Pronomes: ... Ele/Dele
 - ⚡Fato Curioso: ... Estou esperando o Klein acordar.
 
 
-<a href="https://github.com/alysonvitalino/alysonvitalino/blob/main/Curriculo%20Alyson%20Hian%20Clausen%20Vitalino.pdf" class="nav-link">**Currículo**</a>
+
