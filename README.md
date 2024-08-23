@@ -27,3 +27,6 @@ PT-BR -
 - 📫 Como se comunicar comigo: ... alyson.vitalino@gmail.com
 - 😄 Pronomes: ... Ele/Dele
 - ⚡Fato Curioso: ... Estou esperando o Klein acordar.
+
+
+<a href="https://github.com/alysonvitalino/alysonvitalino/blob/main/Curriculo%20Alyson%20Hian%20Clausen%20Vitalino.pdf" class="nav-link">**Currículo**</a>
