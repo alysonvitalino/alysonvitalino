@@ -31,7 +31,7 @@ PT-BR -
 - ⚡Fato Curioso: ... Estou esperando o Klein acordar.
 
 
-<div style ="display: inline_block"><br/>
+<div style ="display: inline-block"><br/>
  <img align="center" alt="html5" src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white&quot; />
  <img align="center" alt="html5" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white&quot; />
  <img align="center" alt="html5" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&quot; />
