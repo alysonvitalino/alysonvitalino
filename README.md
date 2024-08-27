@@ -30,7 +30,7 @@ PT-BR -
 - 😄 Pronomes: ... Ele/Dele
 - ⚡Fato Curioso: ... Estou esperando o Klein acordar.
 
-<\b>
+</br>
 
 [![alysonvitalino GitHub stats](https://github-readme-stats.vercel.app/api?username=alysonvitalino)](https://github.com/alysonvitalino/github-readme-stats)
 
