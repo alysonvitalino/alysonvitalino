@@ -32,7 +32,7 @@ PT-BR -
 
 </br>
 
-[![alysonvitalino GitHub stats](https://github-readme-stats.vercel.app/api?username=alysonvitalino)](https://github.com/alysonvitalino/github-readme-stats&show_icons=true&theme=dark)
+[![alysonvitalino GitHub stats](https://github-readme-stats.vercel.app/api?username=alysonvitalino&show_icons=true&theme=dark)](https://github.com/alysonvitalino/github-readme-stats)
 
 <div style ="display: inline-block"><br/>
  <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"; />
