@@ -7,7 +7,7 @@
 
 ENG -
 
-
+- 🥳 I'm ... 22 years old
 - 🔭 I’m currently working on ... Vistopar
 - 🌱 I’m currently learning ... Iot and SGDB
 - 👯 I’m looking to collaborate on ... New projects
@@ -20,6 +20,7 @@ ENG -
 
 PT-BR -
 
+- 🥳 Eu tenho ... 22 anos
 - 🔭 Estou trabalhando atualmente em ... Vistopar
 - 🌱 Estou aprendendo atualmente ... Iot e SGBD
 - 👯 Estou procurando colaborar em ... Projetos novos
