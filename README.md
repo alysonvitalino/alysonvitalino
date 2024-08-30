@@ -8,7 +8,7 @@
 ENG -
 
 - 🥳 I'm ... 22 years old
-- 🔭 I’m currently working on ... Vistopar
+- 🔭 I’m currently working on ... Searching a job!
 - 🌱 I’m currently learning ... Iot and SGDB
 - 👯 I’m looking to collaborate on ... New projects
 - 🤔 I’m looking for help with ... Learning SGDB
@@ -20,7 +20,7 @@ ENG -
 PT-BR -
 
 - 🥳 Eu tenho ... 22 anos
-- 🔭 Estou trabalhando atualmente em ... Vistopar
+- 🔭 Estou trabalhando atualmente em ... Procurar um emprego!
 - 🌱 Estou aprendendo atualmente ... Iot e SGBD
 - 👯 Estou procurando colaborar em ... Projetos novos
 - 🤔 Estou procurando por ajuda com ... SGBD
@@ -28,7 +28,7 @@ PT-BR -
 - 📫 Como se comunicar comigo: ... alyson.vitalino@gmail.com
 - ✉️ Você pode ver meu currículo em: ... <a href="https://github.com/alysonvitalino/alysonvitalino/blob/main/Curriculo%20Alyson%20Hian%20Clausen%20Vitalino.pdf" class="nav-link">**Currículo**</a>
 - 😄 Pronomes: ... Ele/Dele
-- ⚡Fato Curioso: ... 
+- ⚡Fato Curioso: ...
 
 </br>
 
