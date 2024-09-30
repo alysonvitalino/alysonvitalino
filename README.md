@@ -3,8 +3,6 @@
 # Hi there 👋 ❤️
 
 
-**alysonvitalino/alysonvitalino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ENG -
 
 - 🥳 I'm ... 22 years old
@@ -16,7 +14,7 @@ ENG -
 - 📫 How to reach me: ... alyson.vitalino@gmail.com
 - ✉️ You can see my curriculum vitae at: ... <a href="https://github.com/alysonvitalino/alysonvitalino/blob/main/Curriculo.pdf" class="nav-link">**Currículo**</a>
 - 😄 Pronouns: ... He/His
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... My dog's name is Cristal and that is not one of my safety questions xD
 PT-BR -
 
 - 🥳 Eu tenho ... 22 anos
@@ -28,7 +26,7 @@ PT-BR -
 - 📫 Como se comunicar comigo: ... alyson.vitalino@gmail.com
 - ✉️ Você pode ver meu currículo em: ... <a href="https://github.com/alysonvitalino/alysonvitalino/blob/main/Curriculo.pdf" class="nav-link">**Currículo**</a>
 - 😄 Pronomes: ... Ele/Dele
-- ⚡Fato Curioso: ...
+- ⚡Fato Curioso: ... O nome da minha cachorrinha é Cristal e isso não é uma das minhas questões de segurança xD
 
 </br>
 
